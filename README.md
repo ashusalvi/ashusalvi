@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashusalvi" alt="ashusalvi" /></a> </p>
 
-- 🔭 I’m currently working on **Zapkey**
+- 🔭 I’m Founder of **AzxMatrix**
 
-- 🌱 I’m currently learning **Solidity and React JS**
+- 🌱 I’m currently Working on **Solidity, Agentic AI, and React JS**
 
 - 💬 Ask me about **Laravel, CodeIgniter, Web Design & Development, MySql, Figma**
 
-- 📫 How to reach me **ashitosh.salvi07@gmail.com**
+- 📫 How to reach me: **ashitosh.salvi07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
